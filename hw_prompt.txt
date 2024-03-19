@@ -1,0 +1,16 @@
+Assignment: 
+Create a New Flask Application
+
+Objective: 
+- Construct a fresh Flask application, different from the one we developed in class. This assignment aims to reinforce your understanding of the creation process and deepen your familiarity with Flask.
+Instructions:
+1. Theme Selection: 
+- Choose a theme for your collection to center your database around. Instead of 'posts', you could consider themes like Recipes, Cars, Movies, Wines, etc.
+2. Data Structure: 
+- For the chosen theme, decide on the appropriate key-value pairs that represent the attributes you'd wish to store. For instance, if you chose 'Movies', you might consider keys like 'title', 'director', 'release_date', etc.
+3. CRUD Operations:
+  - Collection: Ensure your application supports CRUD (Create, Read, Update, Delete) operations for your data. This means you should be able to add, read, update, and delete the information.
+
+BONUS points:
+
+    incorporate users with CRUD functionality into your app and test routes/methods with Insomnia.
